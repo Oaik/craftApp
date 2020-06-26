@@ -1,4 +1,4 @@
-###Craft app is built with ASP.net
+### Craft app is built with ASP.net
 Simply this app for rating crafts on the web.
 
 Technogloy and langagues used: C#, ASP.net and Blazor components
